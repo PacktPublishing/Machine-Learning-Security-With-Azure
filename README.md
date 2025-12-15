@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
-
 # Machine Learning Security With Azure
 
 <a href="https://www.packtpub.com/product/machine-learning-security-with-azure/9781805120483"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71yvQR7YbzL._SL1500_.jpg" alt="Machine Learning Security With Azure" height="256px" align="right"></a>
